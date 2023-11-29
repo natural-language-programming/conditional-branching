@@ -2,7 +2,7 @@
 Ask for an input and go down one execution path or another
 
 __Human:__
-> Model, you will tell user what he asks for. Use concise style.<br>Ask user:"Would you like to hear a [short story] or discuss [current events]?<br>"[Short story]: [tell a short story]<br>[Current events]: [tell something about the current events]
+> Model, you will tell user what he asks for. Use concise style.<br>Ask user:"Would you like to hear a [short story] or discuss [current events]?"<br>[Short story]: [tell a short story]<br>[Current events]: [tell something about the current events]
 
 __Model:__
 > Would you like to hear a short story or discuss current events?
