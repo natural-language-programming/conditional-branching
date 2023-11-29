@@ -19,4 +19,4 @@ __Human:__
 __Model:__
 > Once upon a time, in a quaint village nestled between rolling hills, there lived a young inventor named Aria. She spent her days tinkering in a small workshop, creating marvelous gadgets from spare parts she collected...
 
-<i>We don't need to return to the point of branching if we change the decision.</i>
+<i>Remark: We don't need to return to the point of branching if we change the decision.</i>
